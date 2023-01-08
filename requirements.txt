@@ -1,0 +1,11 @@
+torchmetrics 
+pybind11 
+fastwer 
+scikit-learn 
+matplotlib
+numpy
+torch
+torchvision
+Pillow
+tqdm
+
